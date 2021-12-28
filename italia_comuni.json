@@ -1,33 +1,5 @@
 {
-    "regioni": [
-        {
-            "provinceeeeeeeeeeee": [
-                {
-                    "code": "CH",
-                    "comuni": [
-                        {
-                            "code": "069001",
-                            "cap": "66040",
-                            "nome": "Altino"
-                        },
-                        {
-                            "code": "069002",
-                            "cap": "66044",
-                            "nome": "Archi"
-                        },
-                        {
-                            "code": "069003",
-                            "cap": "66010",
-                            "nome": "Ari"
-                        },
-                        {
-                            "code": "069004",
-                            "cap": "66030",
-                            "nome": "Arielli"
-                        },
-                        {
-                            "code": "069005",
-                            "cap": "66041",
+    "
                             "nome": "Atessa"
                         },
                         {
