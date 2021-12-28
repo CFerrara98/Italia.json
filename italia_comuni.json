@@ -1,7 +1,11 @@
 {
     "regioni": [
         {
+<<<<<<< HEAD
             "province2": [
+=======
+            "provinceeeeeeeeeeee": [
+>>>>>>> 39b7358cea8fdb5500da83524eabc9db34037372
                 {
                     "code": "CH",
                     "comuni": [
